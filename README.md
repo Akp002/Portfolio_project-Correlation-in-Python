@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 
-## Overview
+# Overview
 
 This project is a movie recommendation system that uses the TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer and cosine similarity to recommend movies based on their plot descriptions. Given the title of a movie, the system provides a list of similar movies based on their plot summaries.
 
